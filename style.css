@@ -1,0 +1,34 @@
+@font-face {
+    font-family: MercenaryRegular;
+    src: url(./fonts/mercenary/mercenary-regular.otf)
+ }
+@font-face {
+    font-family: YoutubeSansRegular;
+    src: url(./fonts/youtubesans/youtube-sans-light.ttf)
+ }
+@font-face {
+    font-family: BuilderSansRegular;
+    src: url(./fonts/buildersans/BuilderSans/BuilderSans-Regular-400.otf)
+ }
+ @font-face {
+    font-family: DejaVuSans;
+    src: url(./fonts/dejavusans/DejaVuSans.ttf)
+ }
+  header{
+    width: 100%;
+    height: 6vh;
+    background-color: rgb(112, 112, 112);
+  }
+  img{
+    height: 6vh;
+    width: 6vh;
+    padding-left: 1vh;
+  }
+  h1{
+    color: white;
+    font-family: YoutubeSansRegular;
+}
+h2{
+    font-family: MercenaryRegular;
+    color: black;
+}
