@@ -1,19 +1,11 @@
 @font-face {
-    font-family: MercenaryRegular;
-    src: url(./fonts/mercenary/mercenary-regular.otf)
- }
-@font-face {
     font-family: YoutubeSansRegular;
     src: url(https://interstellar-tars.github.io/avalonrbx/fonts/youtubesans/youtube-sans-light.ttf)
  }
 @font-face {
     font-family: BuilderSansRegular;
-    src: url(./fonts/buildersans/BuilderSans/BuilderSans-Regular-400.otf)
- }
- @font-face {
-    font-family: DejaVuSans;
-    src: url(./fonts/dejavusans/DejaVuSans.ttf)
- }
+    src: url(https://interstellar-tars.github.io/avalonrbx/fonts/buildersans/BuilderSans/BuilderSans-Regular-400.otf)
+}
   header{
     width: 100%;
     height: 6vh;
